@@ -1,1 +1,1 @@
-ReadMe file created using terraform [count.index]
+ReadMe file created using terraform github_repository.tfm_repo[count.index].name 
